@@ -1,0 +1,221 @@
+.iphone-11-pro-max---2, .iphone-11-pro-max---2 * { box-sizing: border-box; }.iphone-11-pro-max---2 {
+      background: #000000;
+      width: 414px; height: 896px;
+      position: relative;
+      overflow: hidden;
+    }
+ .vector {
+      position: absolute; left: 18px;top: 25px;
+      overflow: visible;
+    }
+ .all {
+      color: #4285f4;
+      text-align: left;
+      font: 700 20px 'Roboto', sans-serif;
+      position: absolute; left: 75px;bottom: 849px;
+      width: 54px; height: 22px;
+    }
+ .images {
+      color: #5f6368;
+      text-align: left;
+      font: 700 20px 'Roboto', sans-serif;
+      position: absolute; left: 139px;top: 26px;
+      width: 109px; height: 28px;
+    }
+ .vector2 {
+      position: absolute; left: 299px;top: 24px;
+      overflow: visible;
+    }
+ .vector3 {
+      position: absolute; left: 354px;top: 14px;
+      overflow: visible;
+    }
+ .google-web-1 {
+      width: 209px; height: 95px;
+      position: absolute; left: 111px;top: 157px;
+    }
+ .rectangle-1 {
+      background: #ffffff;
+      border-radius: 50px;
+  border-style: solid; 
+  border-color: #e4dfdf;
+  border-width: 1px;
+      width: 380px; height: 46px;
+      position: absolute; left: 26px;top: 273px;
+    }
+    #inputspan{
+      width:80%;
+    }
+    span{
+      vertical-align: center;
+    }
+    span:first-child{
+      width:10%;
+      border-radius: 50px;
+      margin-top: 7px;
+    }
+    span:last-child{
+      width:10%;
+      border-radius: 50px;
+      margin-top: 7px;
+    }
+    input{
+      width: 380px; height: 46px;
+      border-radius: 50px;
+      width: 300px; height: 40px;
+      border: none;
+      padding:10px;
+    }
+ .vector4 {
+      position: absolute; left: -159px;top: 464px;
+      overflow: visible;
+    }
+ .vector5 {
+      position: absolute; left: 573px;top: 459px;
+      overflow: visible;
+    }
+ .vector6 {
+      position: absolute; left: 43px;top: 284px;
+      overflow: visible;
+    }
+ .vector7 {
+      position: absolute; left: 368px;top: 284px;
+      overflow: visible;
+    }
+ .google-offered-in- {
+      color: #fdfafa;
+      text-align: left;
+      font: 300 0px 'Roboto', sans-serif;
+      position: absolute; left: -180px;top: 404px;
+      width: 160px; height: 27px;
+    }
+.google-offered-in--span {
+      color: #fdfafa;
+      font: 300 20px 'Roboto', sans-serif;
+    }
+.google-offered-in--span2 {
+      color: #fdfafa;
+      font: 300 24px 'Roboto', sans-serif;
+    }
+ .----- {
+      color: rgba(141, 133, 229, 0.8);
+      text-align: left;
+      font: 300 24px 'Roboto', sans-serif;
+      position: absolute; left: 84px;top: 457px;
+    }
+ .------ {
+      color: rgba(141, 133, 229, 0.8);
+      text-align: left;
+      font: 300 24px 'Roboto', sans-serif;
+      position: absolute; left: 160px;top: 457px;
+    }
+ .-----2 {
+      color: rgba(141, 133, 229, 0.8);
+      text-align: left;
+      font: 300 24px 'Roboto', sans-serif;
+      position: absolute; left: 237px;top: 457px;
+    }
+ .------- {
+      color: rgba(141, 133, 229, 0.8);
+      text-align: left;
+      font: 300 24px 'Roboto', sans-serif;
+      position: absolute; left: 123px;top: 493px;
+    }
+ .-----3 {
+      color: rgba(141, 133, 229, 0.8);
+      text-align: left;
+      font: 300 24px 'Roboto', sans-serif;
+      position: absolute; left: 321px;top: 457px;
+    }
+ .------2 {
+      color: rgba(141, 133, 229, 0.8);
+      text-align: left;
+      font: 300 24px 'Roboto', sans-serif;
+      position: absolute; left: 217px;top: 493px;
+    }
+ .google-offered-in-2 {
+      color: #fdfafa;
+      text-align: left;
+      font: 300 0px 'Roboto', sans-serif;
+      position: absolute; left: 145px;top: 369px;
+      width: 160px; height: 27px;
+    }
+.google-offered-in-2-span {
+      color: #fdfafa;
+      font: 300 20px 'Roboto', sans-serif;
+    }
+.google-offered-in-2-span2 {
+      color: #fdfafa;
+      font: 300 24px 'Roboto', sans-serif;
+    }
+ .rectangle-4 {
+      background: #000000;
+      width: 414px; height: 46px;
+      position: absolute; left: 0px;bottom: 91px;
+    }
+ .Nigeria {
+      color: #f2f2f2;
+      text-align: left;
+      font: 300 18px 'Roboto', sans-serif;
+      position: absolute; left: 14px;top: 769px;
+      width: 57px; height: 36px;
+    }
+ .rectangle-5 {
+      background: #000000;
+  border-style: solid; 
+  border-color: #dadce0;
+  border-width: 1px;
+      width: 414px; height: 91px;
+      position: absolute; left: 0px;top: 805px;
+    }
+ .settings-privacy-terms {
+      color: #f2f2f2;
+      text-align: left;
+      font: 300 18px 'Roboto', sans-serif;
+      position: absolute; left: 83px;top: 820px;
+      width: 351px; height: 24px;
+    }
+ .advertising-business-about {
+      color: #f2f2f2;
+      text-align: left;
+      font: 300 18px 'Roboto', sans-serif;
+      position: absolute; left: 75px;top: 859px;
+      width: 351px; height: 24px;
+    }
+ /*When hovered*/
+ .all:hover{
+  text-decoration: underline;
+}
+.images:hover{
+  text-decoration: underline;
+}
+.-----:hover{
+  text-decoration: underline;
+}
+.------:hover{
+  text-decoration: underline;
+}
+.-----2:hover{
+  text-decoration: underline;
+}
+.-------:hover{
+  text-decoration: underline;
+}
+.vector:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.954), inset 2px 2px 3px rgba(152, 177, 241, 0.6);
+}
+.vector2:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.954), inset 2px 2px 3px rgba(152, 177, 241, 0.6);
+}
+.vector3:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.954), inset 2px 2px 3px rgba(152, 177, 241, 0.6);
+}
+.all:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.954), inset 2px 2px 3px rgba(152, 177, 241, 0.6);
+}
+.images:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.954), inset 2px 2px 3px rgba(152, 177, 241, 0.6);
+}
+button:hover{
+  border: 1px solid gray;
+}
